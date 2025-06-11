@@ -2,6 +2,8 @@
 
 This repository is part of a research study on how AI-assisted explanations affect understanding of unfamiliar programming languages. You will complete two short tasks by writing explanations (as docstrings or comments) for C++ functions.
 
+> <span style="color:red">❗</span> **Important:** Please read instructions carefully and closely follow them. 
+
 > 🔒 To stay anonymous, do not include your name, email address, or GitHub username anywhere in your submission. Use only your assigned Participant ID (e.g., `P001`).
 
 ---
@@ -18,14 +20,14 @@ You can download them individually or as a ZIP by clicking the green **Code** bu
 
 ## Tasks
 You are expected to write docstrings for functions in both tasks. The docstrings **must** have the following information:
-**1. Purpose of the Function:** What the function does in plain English.
-**2. Parameters:** What inputs the function takes, including:
+1. **Purpose of the Function:** What the function does in plain English.
+2. **Parameters:** What inputs the function takes, including:
    - Data types
    - What each parameter represents
-**5. Return Value:** What the function returns, its type, and meaning (if any).
-**6. Side Effects:** Any changes made outside the function (e.g., printing to console).
-**7. Special/Edge Cases:** Any assumptions, constraints, or edge behavior.
-**8. Brief Example (optional):** A quick usage example for context.
+5. **Return Value:** What the function returns, its type, and meaning (if any).
+6. **Side Effects:** Any changes made outside the function (e.g., printing to console).
+7. **Special/Edge Cases:** Any assumptions, constraints, or edge behavior.
+8. **Brief Example (optional):** A quick usage example for context.
 
 
 ## 🧪 Task A – With GitHub Copilot (10 minutes)
