@@ -17,7 +17,7 @@ You can download them individually or as a ZIP by clicking the green **Code** bu
 ---
 
 ## Tasks
-You are expected to write docstrings for functions in both tasks. The docstrings should have the following information:
+You are expected to write docstrings for functions in both tasks. The docstrings **must** have the following information:
 1. Purpose of the Function: What the function does in plain English.
 2. Parameters: What inputs the function takes, including:
    - Data types
@@ -40,7 +40,7 @@ You are expected to write docstrings for functions in both tasks. The docstrings
 ## 🧪 Task B – Without Copilot (15 minutes)
 
 - Open the file `task_b.cpp`.
-- Do **not** use Copilot or any AI assistance.
+- Do **not** use Copilot or any AI assistance. **Turn off Copilot on your IDE to avoid automated suggestions.**
 - Write your explanation based only on your own understanding.
 - You have 15 minutes to complete this task.
 
